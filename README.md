@@ -1,19 +1,24 @@
 # Github Profile
 
+## About Me
+- Age: 20
+- Gender: Female
+- Pronouns: She/Her
+- Interests
+  - Gaming
+  - Anime
+  - Coding
+  - Space
+  - The Ocean
+
+
 ## Past experience
-<ul>
-  <li>Audrino<ul>
-    <li>C++</li>
-  </ul> 
-  </li>
-  <li>Python</li>
-  <li>App Inventor</li>
-</ul>
+- Audrino
+  -C++
+- Python
+- App Inventor
 
 ## Currently Learning
-<ul>
-  <li>Html</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-
+- Html
+- CSS
+- Javascript
