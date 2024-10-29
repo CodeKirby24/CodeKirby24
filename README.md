@@ -1,7 +1,7 @@
 # Github Profile
 
 ## About Me
-- Age: 20
+- Age: 21
 - Gender: Female
 - Pronouns: She/Her
 - Interests
@@ -22,3 +22,4 @@
 - Html
 - CSS
 - Javascript
+- C#
